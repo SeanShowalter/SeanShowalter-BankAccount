@@ -1,5 +1,5 @@
 
-import java.util.Scanner;
+import java.util.Scanner; 
 
 /**
  * Let's build a slightly more complicated app than the guessing game. This app can represent interacting with someone's
